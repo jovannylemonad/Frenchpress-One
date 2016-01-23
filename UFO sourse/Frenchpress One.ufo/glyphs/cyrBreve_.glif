@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cyrBreve" format="1">
+  <advance width="199"/>
+  <unicode hex="F6D1"/>
+  <outline>
+    <contour>
+      <point x="168" y="832" type="curve"/>
+      <point x="167" y="841"/>
+      <point x="162" y="845"/>
+      <point x="156" y="845" type="curve" smooth="yes"/>
+      <point x="133" y="845"/>
+      <point x="145" y="794"/>
+      <point x="99" y="794" type="curve" smooth="yes"/>
+      <point x="50" y="794"/>
+      <point x="65" y="845"/>
+      <point x="43" y="845" type="curve" smooth="yes"/>
+      <point x="36" y="845"/>
+      <point x="31" y="840"/>
+      <point x="31" y="827" type="curve" smooth="yes"/>
+      <point x="31" y="790"/>
+      <point x="64" y="769"/>
+      <point x="101" y="769" type="curve" smooth="yes"/>
+      <point x="136" y="769"/>
+      <point x="168" y="792"/>
+      <point x="168" y="827" type="curve"/>
+      <point x="168" y="829"/>
+      <point x="168" y="830"/>
+    </contour>
+  </outline>
+</glyph>

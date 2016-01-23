@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rcommaaccent" format="1">
+  <advance width="394"/>
+  <unicode hex="0156"/>
+  <outline>
+    <contour>
+      <point x="221" y="-87" type="curve" smooth="yes"/>
+      <point x="221" y="-90"/>
+      <point x="221" y="-94"/>
+      <point x="221" y="-100" type="curve" smooth="yes"/>
+      <point x="221" y="-119"/>
+      <point x="217" y="-151"/>
+      <point x="178" y="-175" type="curve"/>
+      <point x="176" y="-175"/>
+      <point x="194" y="-145"/>
+      <point x="194" y="-130" type="curve" smooth="yes"/>
+      <point x="194" y="-116"/>
+      <point x="166" y="-122"/>
+      <point x="166" y="-87" type="curve" smooth="yes"/>
+      <point x="166" y="-72"/>
+      <point x="179" y="-58"/>
+      <point x="195" y="-58" type="curve" smooth="yes"/>
+      <point x="209" y="-58"/>
+      <point x="221" y="-73"/>
+    </contour>
+    <component base="R"/>
+  </outline>
+</glyph>
